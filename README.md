@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Youssef Hussein
-- 👀 I’m interested in Unreal engine and unity
-- 🌱 I’m currently learning python
-- 😅 Last year of highschool
+- 👀 I’m interested in Godot
+- 🌱 I’m currently learning OOP
+- 😅 Second year of college
 
 <!---
 youssefhussein/youssefhussein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
