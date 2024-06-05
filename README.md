@@ -1,9 +1,22 @@
 - 👋 Hi, I’m Youssef
-- 👀 I wanna build full stack web apps
-- 🌱 I’m currently learning full stack web dev
-- 😅 Second year of university @MIU
+- 🌐 I wanna build full stack web apps
+- 📚 I’m currently learning full stack web dev using express
+- 😅 Sophomore student @ Misr International University
 
-<!---
-youssefhussein/youssefhussein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Things I am learning
+- [X] expressjs
+- [ ] Angular
+- [ ] React
+- [ ] TailwindCss
+- [ ] t3-app
+
+--- 
+
+### Things I learned
+- [X] Nodejs
+- [X] ejs for SSR
+- [X] Bootstrap
+- [X] C++
+- [X] OOP concepts (inheritance,polymorphism,...etc)
+- [X] SQL with MariaDB
+- [X] DSA
