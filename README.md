@@ -5,9 +5,8 @@
 
 ### Things I am learning
 - [X] expressjs
-- [ ] Angular
-- [ ] React
-- [ ] TailwindCss
+- [ ] React with Next.js
+- [X] TailwindCss
 - [ ] t3-app
 
 --- 
