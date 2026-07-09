@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Youssef
 - 🌐 I wanna build full stack web apps
-- 😅 Sophomore student @ Misr International University
+- 😅 Senior student @ Misr International University
 - 💬 Ask me about anything, I am happy to help :D
